@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+.venv/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Data (keep structure, not sensitive data)
+# backend/data/*.json  <- commented out so defaults are tracked
+
+# OS
+.DS_Store
+*.log

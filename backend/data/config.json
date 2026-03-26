@@ -1,0 +1,30 @@
+{
+  "appName": "OK WIN WINGO",
+  "environment": "production",
+  "version": "1.0.0",
+  "mailTo": "",
+  "maintenanceMode": false,
+  "blockDurationMinutes": 15,
+  "timerDurationForNextPrediction": 2,
+  "topButtons": [],
+  "menuItems": [
+    { "id": "1", "name": "Home", "href": "/" },
+    { "id": "2", "name": "Admin", "href": "/admin" }
+  ],
+  "bannerImage": { "image": "" },
+  "howToParticipate": { "title": "How to Participate", "description": "" },
+  "registrationTutorial": { "buttonName": "Register Now", "buttonHref": "#", "description": "" },
+  "loginTutorial": { "buttonName": "Login Now", "buttonHref": "#", "description": "" },
+  "aboutOkWin": { "title": "About OK Win", "description": "" },
+  "feedback": { "images": [], "description": "" },
+  "giftCode": { "title": "Gift Code", "code": "", "description": "" },
+  "earningRealMoney": { "title": "Earning Real Money", "referralCode": "", "description": "" },
+  "winPopup": {
+    "enabled": true,
+    "message": "\ud83c\udf89 Congratulations! You got a WIN!",
+    "subMessage": "Please join our channel for more wins!",
+    "channelButtonText": "Join Channel",
+    "channelLink": "",
+    "closeButtonDelaySeconds": 7
+  }
+}
